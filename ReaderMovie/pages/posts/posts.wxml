@@ -1,0 +1,43 @@
+<view>
+    <swiper indicator-dots="true" autoplay="true" interval="5000" vertical="true">
+        <swiper-item>
+          <image src="/images/wx.png"></image>
+        </swiper-item>
+        <swiper-item>
+          <image src="/images/vr.png"></image>
+        </swiper-item>
+        <swiper-item>
+          <image src="/images/iqiyi.png"></image>
+        </swiper-item>
+    </swiper>
+    <view class="post-containe">
+                <view class="post-author-date">
+                    <image class="post-author" src="/images/post/bl.png"></image>
+                    <text class="post-date">Nov 25 2016</text>
+                </view>
+                <text class="post-title">正是虾肥蟹壮时</text>
+                <image class="post-image" src="/images/post/crab.png"></image>
+                <text class="post-content">在这瓜果飘香、稻黍起舞的召唤声中,又是一度蟹肥虾壮时。螃蟹也成了人们酒席上必不可少的菜肴,尤其是正值金秋时节,螃蟹更是座上宾</text>
+                <view class="post-like">
+                    <image class="post-like-image"                                                          src="/images/icon/chat.png"></image>
+                    <text class="post-like-font">92</text>
+                    <image class="post-like-image" src="/images/icon/view.png"></image>
+                    <text class="post-like-font">65</text>
+                </view>
+    </view>
+    <view class="post-containe">
+                <view class="post-author-date">
+                    <image class="post-author" src="/images/post/cat.png"></image>
+                    <text class="post-date">Nov 25 2016</text>
+                </view>
+                <text class="post-title">比利林恩</text>
+                <image class="post-image" src="/images/post/bl.png"></image>
+                <text class="post-content">比利林恩的中场战事</text>
+                <view class="post-like">
+                    <image class="post-like-image"                                                          src="/images/icon/chat.png"></image>
+                    <text class="post-like-font">92</text>
+                    <image class="post-like-image" src="/images/icon/view.png"></image>
+                    <text class="post-like-font">65</text>
+                </view>
+    </view>
+</view>
